@@ -1,0 +1,4 @@
+{
+  "plugins": ["transform-runtime", "transform-class-properties"],
+  "presets": ["env", "react"]
+}
